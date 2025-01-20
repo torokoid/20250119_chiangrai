@@ -164,11 +164,11 @@ p.note { display: none; }
 
 <h2><span class="yellow">アヒルには雛が孵っていてメスたちは子育て中</span></h2>
 
-<a href="https://youtube.com/shorts/cCX7O4zHpDY?feature=share" target="_blank"><img src="20250119_006.png” alt="サンプル画像" width="900" /></a>
+<a href="https://youtube.com/shorts/cCX7O4zHpDY?feature=share" target="_blank"><img src="20250119_006.png" alt="サンプル画像" width="900" /></a>
 
-<a href="https://youtube.com/shorts/cwMLFzhXZkY?feature=share" target="_blank"><img src="20250119_007.png” alt="サンプル画像" width="900" /></a>
+<a href="https://youtube.com/shorts/cwMLFzhXZkY?feature=share" target="_blank"><img src="20250119_007.png" alt="サンプル画像" width="900" /></a>
 
-<a href="https://youtube.com/shorts/KnbrkhGwZfc?feature=share" target="_blank"><img src="20250119_008.png” alt="サンプル画像" width="900" /></a>
+<a href="https://youtube.com/shorts/KnbrkhGwZfc?feature=share" target="_blank"><img src="20250119_008.png" alt="サンプル画像" width="900" /></a>
 
 
 <h2><span class="yellow">ランのお花は一度咲くと長持ちです</span></h2>
@@ -187,7 +187,7 @@ p.note { display: none; }
 <a href="20250119_019.JPG" target="_blank"><img src="20250119_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250119_020.JPG" target="_blank"><img src="20250119_020.JPG" alt="サンプル画像" width="900" /></a>
 
-<a href="https://youtube.com/shorts/1yNzWKb7wjA?feature=share" target="_blank"><img src="20250119_005.png” alt="サンプル画像" width="900" /></a>
+<a href="https://youtube.com/shorts/1yNzWKb7wjA?feature=share" target="_blank"><img src="20250119_005.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">夕方は荷物運びのお手伝いで街に移動</span></h2>
 <a href="20250119_021.JPG" target="_blank"><img src="20250119_021.JPG" alt="サンプル画像" width="900" /></a>
