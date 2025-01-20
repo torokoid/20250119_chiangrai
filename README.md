@@ -222,7 +222,7 @@ p.note { display: none; }
 <h2><span class="yellow">不法入国者取り締まりの検問</span></h2>
 <a href="20250119_032.JPG" target="_blank"><img src="20250119_032.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">肝心の警官さんは誰もいませんでした</span></h2>
+<h2><span class="yellow">肝心のお巡りさんは一人もいませんでした</span></h2>
 <a href="20250119_033.JPG" target="_blank"><img src="20250119_033.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">運んだ荷物は丸テーブル、タイの家具はすごく重いです</span></h2>
