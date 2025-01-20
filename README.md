@@ -128,13 +128,13 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 
-<h2><span class="yellow">3日続けて西の空にお月様が沈んで行く映像からスタートです<br>同じような時間帯ですがかなり高いところに残ってます 19日 7:04</span></h2>
+<h2><span class="yellow">3日続けて西の空に沈みゆくお月様の映像からスタートです<br>同じような時間ですが、まだかなり高いところに居ます 19日 朝7:04</span></h2>
 <a href="20250119_001.JPG" target="_blank"><img src="20250119_001.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">昨日よりさらに太陽に近づいて、掛け方はさらに大きくなりました</span></h2>
 <a href="20250119_002.JPG" target="_blank"><img src="20250119_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">ちょっと遅れて東の空からお日様が顔を出しました、19日朝7:15</span></h2>
+<h2><span class="yellow">ちょっと遅れて東の空からお日様が顔を出しました、朝7:15</span></h2>
 <a href="20250119_003.JPG" target="_blank"><img src="20250119_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250119_004.JPG" target="_blank"><img src="20250119_004.JPG" alt="サンプル画像" width="900" /></a>
 
@@ -162,7 +162,7 @@ p.note { display: none; }
 <a href="20250119_013.JPG" target="_blank"><img src="20250119_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250119_014.JPG" target="_blank"><img src="20250119_014.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">アヒルには雛が孵っていてメスたちは子育て中<br>画像のクリックで動画再生します(３連続 ↓)</span></h2>
+<h2><span class="yellow">アヒルの子育てはメス任せ<br>画像のクリックで動画再生します(３連続 ↓)</span></h2>
 
 <a href="https://youtube.com/shorts/cCX7O4zHpDY?feature=share" target="_blank"><img src="20250119_006.png" alt="サンプル画像" width="900" /></a>
 
@@ -177,7 +177,7 @@ p.note { display: none; }
 <h2><span class="yellow">夕陽を浴びて庭の木々が黄色味を帯びます</span></h2>
 <a href="20250119_016.JPG" target="_blank"><img src="20250119_016.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">はの上で鳥が休憩</span></h2>
+<h2><span class="yellow">木の上では鳥が休憩中</span></h2>
 <a href="20250119_017.JPG" target="_blank"><img src="20250119_017.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">椰子の実がたくさん実りました</span></h2>
